@@ -1,18 +1,73 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e87a&height=240&section=header&text=Pranav%20Surya&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Pranav Surya banner"/>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-surya-6256752b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryapranav55@gmail.com) 
+## Pranav Surya
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranavsurya77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pranavsurya77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsurya77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Full-Stack Developer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranavsurya77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Shipping%20Reliable%20APIs;Open%20to%20thoughtful%20collaboration)](https://git.io/typing-svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=pranavsurya77&icon=0&color=1)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-surya-6256752b3) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://pranav_surya_bfad31be53f0) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suryapranav55@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://pranavportfolio-roan.vercel.app)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square)
+
+Computer Science and Engineering student with backend development experience across enterprise-scale systems,
+Including work at Citigroup. Skilled in building secure, scalable REST APIs, cloud-native deployments, and full-stack applications using Java, Spring Boot, React, and modern DevOps and CI/CD tooling.
+
+> Building something interesting? Let's connect: https://pranavportfolio-roan.vercel.app
+
+## Snapshot
+
+- ⌖ **Location** · Chennai, India
+- ◎ **Education** · Shiv Nadar University Chennai
+- ⟳ **Learning** · Java Springboot, Devops
+
+## Tools I Reach For
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css,java&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,express,mongodb,mysql,supabase,redis,spring&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,aws,nginx,git,linux&theme=dark" alt="DevOps & Cloud"/>
+
+## GitHub Signals
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavsurya77&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Pranav Surya stats"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranavsurya77&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
+
+## Extras
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavsurya77&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=pranavsurya77&theme=github-dark&hide_border=true&area=true)
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> Requires GitHub Actions setup
+
+<div align="center">
+
+<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://pranavportfolio-roan.vercel.app)</sub>
+
+</div>
