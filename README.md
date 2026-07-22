@@ -51,7 +51,11 @@ Including work at Citigroup. Skilled in building secure, scalable REST APIs, clo
 
 ### Activity
 
+<div align="center">
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavsurya77&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=pranavsurya77&theme=github-dark&hide_border=true&area=true)
+
+</div>
 
 ### Contribution Snake
 
