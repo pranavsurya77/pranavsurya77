@@ -68,10 +68,8 @@ Including work at Citigroup. Skilled in building secure, scalable REST APIs, clo
 
 </div>
 
-> Requires GitHub Actions setup
-
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://pranavportfolio-roan.vercel.app)</sub>
+<sub> [Get in touch](https://pranavportfolio-roan.vercel.app)</sub>
 
 </div>
