@@ -62,8 +62,8 @@ Including work at Citigroup. Skilled in building secure, scalable REST APIs, clo
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pranavsurya77/pranavsurya77/output/github-snake.svg">
 </picture>
 
 </div>
