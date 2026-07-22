@@ -6,7 +6,7 @@
 
 **Full-Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&center=true&vCenter=true&width=640&lines=Shipping%20Reliable%20APIs;Open%20to%20thoughtful%20collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00e87a&vCenter=true&width=500&lines=Shipping%20Reliable%20APIs;Open%20to%20thoughtful%20collaboration)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-surya-6256752b3) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://pranav_surya_bfad31be53f0) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:suryapranav55@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://pranavportfolio-roan.vercel.app)
 
